@@ -1,0 +1,5 @@
+C:\Users\godwh_000\GitHub\jquery-layout\bin\jquery-layout.dll
+C:\Users\godwh_000\GitHub\jquery-layout\bin\jquery-layout.pdb
+C:\Users\godwh_000\GitHub\jquery-layout\obj\Debug\jquery-layout.csprojResolveAssemblyReference.cache
+C:\Users\godwh_000\GitHub\jquery-layout\obj\Debug\jquery-layout.dll
+C:\Users\godwh_000\GitHub\jquery-layout\obj\Debug\jquery-layout.pdb
